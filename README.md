@@ -3,4 +3,5 @@
 
 ## Preview
 
-![Website Preview](https://cdn.hackclub.com/019e0571-c0c5-723b-ac6f-c42457c90719/screenshot.png)
+![Website Preview]<img width="1290" height="860" alt="image" src="https://github.com/user-attachments/assets/aaefc80b-60fb-46d9-a038-9fe29e2cfc7b" />
+
