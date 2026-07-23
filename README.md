@@ -1,6 +1,8 @@
-# A stone etching of Socrates
-**Thy is a man, just like the next - Socrates**
+# A website about Socrates
+Thy has made a website regarding a couple of thy's favourite things and recent issues that thy faced, like a skeleton selling 'donuts'. Not on my Greece you stanky pile of bones.
 
 ## Preview
 
-![Website Preview](https://cdn.hackclub.com/019e0571-c0c5-723b-ac6f-c42457c90719/screenshot.png)
+![Website Image 1](image-1.png)
+![Website Image 2](image-2.png)
+![Website Image 3](image-3.png)
